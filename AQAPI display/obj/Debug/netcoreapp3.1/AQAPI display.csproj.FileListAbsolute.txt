@@ -1,0 +1,23 @@
+C:\Users\user\source\repos\AQAPI display\AQAPI display\obj\Debug\netcoreapp3.1\AQAPI display.csprojAssemblyReference.cache
+C:\Users\user\source\repos\AQAPI display\AQAPI display\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\user\source\repos\AQAPI display\AQAPI display\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\user\source\repos\AQAPI display\AQAPI display\obj\Debug\netcoreapp3.1\AQAPI display_MarkupCompile.cache
+C:\Users\user\source\repos\AQAPI display\AQAPI display\obj\Debug\netcoreapp3.1\AQAPI display_MarkupCompile.lref
+C:\Users\user\source\repos\AQAPI display\AQAPI display\bin\Debug\netcoreapp3.1\AQAPI display.exe
+C:\Users\user\source\repos\AQAPI display\AQAPI display\bin\Debug\netcoreapp3.1\AQAPI display.deps.json
+C:\Users\user\source\repos\AQAPI display\AQAPI display\bin\Debug\netcoreapp3.1\AQAPI display.runtimeconfig.json
+C:\Users\user\source\repos\AQAPI display\AQAPI display\bin\Debug\netcoreapp3.1\AQAPI display.runtimeconfig.dev.json
+C:\Users\user\source\repos\AQAPI display\AQAPI display\bin\Debug\netcoreapp3.1\AQAPI display.dll
+C:\Users\user\source\repos\AQAPI display\AQAPI display\bin\Debug\netcoreapp3.1\AQAPI display.pdb
+C:\Users\user\source\repos\AQAPI display\AQAPI display\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\user\source\repos\AQAPI display\AQAPI display\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\source\repos\AQAPI display\AQAPI display\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\user\source\repos\AQAPI display\AQAPI display\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\user\source\repos\AQAPI display\AQAPI display\obj\Debug\netcoreapp3.1\AQAPI display.g.resources
+C:\Users\user\source\repos\AQAPI display\AQAPI display\obj\Debug\netcoreapp3.1\AQAPI display.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AQAPI display\AQAPI display\obj\Debug\netcoreapp3.1\AQAPI display.AssemblyInfo.cs
+C:\Users\user\source\repos\AQAPI display\AQAPI display\obj\Debug\netcoreapp3.1\AQAPI display.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AQAPI display\AQAPI display\obj\Debug\netcoreapp3.1\AQAPI display.csproj.CopyComplete
+C:\Users\user\source\repos\AQAPI display\AQAPI display\obj\Debug\netcoreapp3.1\AQAPI display.dll
+C:\Users\user\source\repos\AQAPI display\AQAPI display\obj\Debug\netcoreapp3.1\AQAPI display.pdb
+C:\Users\user\source\repos\AQAPI display\AQAPI display\obj\Debug\netcoreapp3.1\AQAPI display.genruntimeconfig.cache
